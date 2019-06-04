@@ -1,0 +1,23 @@
+{
+  "name": "client-eurosport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eurosport-functionality.js",
+  "scripts": {
+    "sync": "meta git update",
+    "start": "node eurosport-functionality.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menthena/client-eurosport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menthena/client-eurosport/issues"
+  },
+  "dependencies": {
+    "meta": "1.2.19"
+  },
+  "homepage": "https://github.com/menthena/client-eurosport#readme"
+}
