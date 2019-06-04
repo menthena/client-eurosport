@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "client-core": "git@github.com:menthena/client-core.git"
+  }
+}
